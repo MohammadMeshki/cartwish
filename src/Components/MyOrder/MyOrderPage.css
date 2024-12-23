@@ -1,0 +1,10 @@
+.myorder-page {
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 32px 48px;
+}
+
+.table-headers {
+    padding: 0 10px;
+}

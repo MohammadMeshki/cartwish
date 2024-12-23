@@ -1,0 +1,23 @@
+.link-emoji {
+    width: 25px;
+    margin-inline-start: 5px;
+}
+
+.sidebar-link {
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    font-size: 21px;
+    padding: 10px 15px;
+    border-radius: 3px;
+    transition: all 0.2s ease-in-out;
+}
+
+.sidebar-link:hover {
+    background-color: #f6f6f6 ;
+}
+
+.sidebar-link img {
+    width: 30px;
+    margin-inline-start: 0;
+    margin-inline-end: 8px;
+}

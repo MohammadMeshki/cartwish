@@ -1,0 +1,27 @@
+.common-table {
+    width: 100%;
+    margin-block-end: 16px;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.24);
+}
+
+.common-table thead tr {
+    height: 50px;
+    background-color: #36304a;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.common-table tbody tr {
+    height: 50px;
+    text-align: center;
+}
+
+.common-table tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+}
+
+.common-table thead th {
+    padding: 0 20px;
+}

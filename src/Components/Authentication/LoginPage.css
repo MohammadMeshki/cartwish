@@ -1,0 +1,46 @@
+.form-page {
+    justify-content: center;
+}
+
+.authentication-form {
+    width: 30%;
+    padding: 32px 48px;
+    margin-block-start: 32px;
+    background-color: #fff;
+}
+
+.authentication-form h2 {
+    font-size: 40px;
+    margin-block-end: 30px;
+    text-align: center;
+}
+
+.form-inputs div {
+    display: flex;
+    flex-direction: column;
+    margin-block-end: 20px;
+}
+
+.form-inputs label {
+    font-size: 18px;
+    font-weight: 600;
+    margin-block-end: 3px;
+}
+
+.form-text-input {
+    height: 35px;
+    padding: 0 8px;
+    font-size: 17px;
+    font-weight: 500;
+    outline: none;
+}
+
+.form-submit {
+    height: 40px;
+    width: 100%;
+    margin: 25px 0 10px;
+}
+
+.form-error {
+    color: red;
+}

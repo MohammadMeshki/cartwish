@@ -1,0 +1,31 @@
+.quantity-input-button {
+    width: 35px;
+    height: 35px;
+    font-size: 25px;
+    background-color: #ff8848;
+    color: #fff;
+    border-radius: 100%;
+    cursor: pointer;
+    border: none;
+}
+
+.quantity-input-button:disabled {
+    opacity: 0.3;
+    cursor: default;
+}
+
+.quantity-input-count {
+    margin: 0 40px;
+    text-align: center;
+}
+
+.table-quantity-input {
+    height: 50px;
+    justify-content: center;
+}
+
+.cart-remove-icon {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
