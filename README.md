@@ -1,1 +1,3 @@
 # phone-accessories
+
+You can buy different accessories such as laptop, phone, console, etc...
